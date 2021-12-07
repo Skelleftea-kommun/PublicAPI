@@ -7,7 +7,7 @@
     <colorGraphic32 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/TestGit/icons/full/obj30/A.gif"/>
     <composition>
       <nodes xmi:type="ComIbmWSInput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_1" location="138,235" URLSpecifier="/test">
-        <translation xmi:type="utility:ConstantString" string="HTTP Input"/>
+        <translation xmi:type="utility:ConstantString" string="HTTP Input TEst"/>
       </nodes>
       <nodes xmi:type="ComIbmWSReply.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_2" location="449,219">
         <translation xmi:type="utility:ConstantString" string="HTTP Reply"/>
